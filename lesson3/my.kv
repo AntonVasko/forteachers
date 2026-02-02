@@ -1,0 +1,11 @@
+RootWidget:
+    orientation: "vertical"
+    padding: 20
+    spacing: 10
+
+    Label:
+        text: "Counter: " + str(root.counter)
+
+    Button:
+        text: "Нажми!"
+        on_press: root.counter += 1
