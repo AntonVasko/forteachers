@@ -1,3 +1,4 @@
+# слайд 14, урок 3
 from kivy.uix.floatlayout import FloatLayout
 from kivy.app import App
 from kivy.properties import ObjectProperty, StringProperty
